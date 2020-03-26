@@ -64,7 +64,7 @@
 		<dc:description id="description">A poor young boy unexpectedly inherits a peerage and travels to England to live with his grandfather, an Earl.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;i&gt;Little Lord Fauntleroy&lt;/i&gt;, an American boy named Cedric is transported from the impoverished streets of New York City to the grandeur of his ancestral home, Dorincourt Castle. Here he learns how to become an English aristocrat from the Earl of Dorincourt, his cold and cynical grandfather.&lt;/p&gt;
-			&lt;p&gt;Frances Hodgson Burnett published this, her first children’s story, in &lt;i&gt;St. Nicholas Magazine&lt;/i&gt; in 1865. Because of the story’s popularity, a year later, it was published as an illustrated novel to be sold around the world and translated to 20 different languages.&lt;/p&gt;
+			&lt;p&gt;Frances Hodgson Burnett published this, her first children’s story, in &lt;i&gt;St. Nicholas Magazine&lt;/i&gt; in 1885. Because of the story’s popularity, a year later, it was published as an illustrated novel to be sold around the world and translated to 20 different languages.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/479</dc:source>
