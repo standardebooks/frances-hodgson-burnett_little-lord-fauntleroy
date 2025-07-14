@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-8.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is an ungrammatical voice style, as present in the print book.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-11.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is an ungrammatical voice style, as present in the print book.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-13.xhtml">
 		<ignore>
 			<code>y-026</code>
+			<reason>Matched text is an ungrammatical voice style, as present in the print book.</reason>
+		</ignore>
+		<ignore>
+			<code>y-035</code>
 			<reason>Matched text is an ungrammatical voice style, as present in the print book.</reason>
 		</ignore>
 	</file>
