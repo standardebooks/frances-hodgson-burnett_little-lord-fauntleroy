@@ -30,16 +30,16 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Little Lord Fauntleroy</dc:title>
 		<meta property="file-as" refines="#title">Little Lord Fauntleroy</meta>
-		<dc:subject id="subject-1">Conduct of life -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-2">Children -- Conduct of life -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-3">Family -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-4">England -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-5">Grandparent and child -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-6">Inheritance and succession -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-7">Grandfathers -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-8">Wealth -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-9">Altruism -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-10">Mother and child -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-1">Conduct of life--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-2">Children--Conduct of life--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-3">Family--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-4">England--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-5">Grandparent and child--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-6">Inheritance and succession--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-7">Grandfathers--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-8">Wealth--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-9">Altruism--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-10">Mother and child--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008100297</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
