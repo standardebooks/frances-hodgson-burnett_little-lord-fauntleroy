@@ -70,7 +70,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/479</dc:source>
 		<dc:source>https://books.google.com/books?id=kut_maWlSREC</dc:source>
-		<meta property="schema:wordCount">58594</meta>
+		<meta property="schema:wordCount">58593</meta>
 		<meta property="schema:educationalLevel">79.3</meta>
 		<link href="https://en.wikipedia.org/wiki/Little_Lord_Fauntleroy" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
